@@ -5,8 +5,13 @@ description: 'This resource contains information on eigenvalues and eigenvectors
   skewsymmetric,
 
   orthogonal matrices.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c627a101f9c5fb468180d42ecdaf755e_lecture_09.pdf
+file: /media/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c627a101f9c5fb468180d42ecdaf755e_lecture_09.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_09.pdf
 uid: c627a101-f9c5-fb46-8180-d42ecdaf755e
