@@ -11,7 +11,7 @@ Users may find additional or updated materials at Professor Carter's [3.016 cour
 
 Each lecture session uses lecture notes and Mathematica® examples. The Mathematica® examples are provided in two formats: Mathematica® notebook files (.nb) and MathML files.
 
-Style Sheet for 3.016 Mathematica® Notebooks: ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/3016_Carter.nb)).  
+Style Sheet for 3.016 Mathematica® Notebooks: ([NB]({{< baseurl >}}/resources/3016_carter)).  
 The style sheet defines the presentation of this course's .nb files, and should be downloaded to a local directory before opening other .nb files.
 
 {{< tableopen >}}
@@ -68,7 +68,7 @@ Introduction to Mathematica®, Assignment and Evaluation, Rules and Replacement,
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-02/Lecture-02.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture02.nb))
+([NB]({{< baseurl >}}/resources/lecture02))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +86,7 @@ Mathematica® Graphics: Basic Plotting, Data, Two- and Three-dimensional Plottin
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-03/Lecture-03.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture03.nb))
+([NB]({{< baseurl >}}/resources/lecture03))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ Mathematica®: Symbolic and Numeric Calculations, Linear Algebra, Roots of Equat
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-04/Lecture-04.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture04.nb))
+([NB]({{< baseurl >}}/resources/lecture04))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +140,7 @@ Linear Algebra: Matrix Operations, Interpretations of Matrix Operations, Multipl
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-06/Lecture-06.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture06.nb))
+([NB]({{< baseurl >}}/resources/lecture06))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +158,7 @@ Linear Algebra: Solutions to Linear Systems of Equations, Determinants, Matrix I
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-07/Lecture-07.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture07.nb))
+([NB]({{< baseurl >}}/resources/lecture07))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +185,7 @@ Complex Numbers: Complex Plane, Addition and Multiplication, Complex Conjugates,
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-08/Lecture-08.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture08.nb))
+([NB]({{< baseurl >}}/resources/lecture08))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +203,7 @@ Matrix Eigenvalues: Eigenvalue/Eigenvector Definitions, Invariants, Principal Di
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-09/Lecture-09.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture09.nb))
+([NB]({{< baseurl >}}/resources/lecture09))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +221,7 @@ Hermitian Forms, Similar Matrices, Eigenvalue Basis, Diagonal Forms
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-10/Lecture-10.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture10.nb))
+([NB]({{< baseurl >}}/resources/lecture10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -338,7 +338,7 @@ Multi-variable Calculus: Triple Integrals and Divergence Theorem, Applications a
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-16/Lecture-16.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture16.nb))
+([NB]({{< baseurl >}}/resources/lecture16))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -410,7 +410,7 @@ ODEs: Derivations for Simple Models, Exact Equations and Integrating Factors, Th
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-20/Lecture-20.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture20.nb))
+([NB]({{< baseurl >}}/resources/lecture20))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -428,7 +428,7 @@ Higher Order Differential Equations: Homogeneous Second Order, Initial Value Pro
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-21/Lecture-21.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture21.nb))
+([NB]({{< baseurl >}}/resources/lecture21))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -455,7 +455,7 @@ Differential Operators, Damped and Forced Harmonic Oscillators, Non-homogeneous 
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-22/Lecture-22.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture22.nb))
+([NB]({{< baseurl >}}/resources/lecture22))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -545,7 +545,7 @@ Sturm-Louiville Problems: Eigenfunction, Orthogonal Functional Series, Eigenfunc
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-27/Lecture-27.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture27.nb))
+([NB]({{< baseurl >}}/resources/lecture27))
 {{< tdclose >}}
 
 {{< trclose >}}
