@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a data file for lab 4.
-file: /media/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/e22378456402639a5dbd47c6b874f42f_randomwalk.dat
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/e22378456402639a5dbd47c6b874f42f_randomwalk.dat
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: randomwalk.dat
 uid: e2237845-6402-639a-5dbd-47c6b874f42f
 ---
+This resource contains a data file for lab 4.
+

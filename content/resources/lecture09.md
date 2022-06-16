@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a supporting file for lecture 9.
-file: /media/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/db7d78c4e05930663f4630e2f0ad8724_Lecture09.nb
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/db7d78c4e05930663f4630e2f0ad8724_Lecture09.nb
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Lecture09.nb
 uid: db7d78c4-e059-3066-3f46-30e2f0ad8724
 ---
+This resource contains a supporting file for lecture 9.
+

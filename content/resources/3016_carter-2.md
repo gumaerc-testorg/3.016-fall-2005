@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout.
-file: /media/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/83adbe891505819d1c7e96c67e77a064_3016_Carter.nb
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/83adbe891505819d1c7e96c67e77a064_3016_Carter.nb
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: 3016_Carter.nb
 uid: 83adbe89-1505-819d-1c7e-96c67e77a064
 ---
+Handout.
+

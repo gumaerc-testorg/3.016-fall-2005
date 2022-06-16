@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a supporting file for lecture 27.
-file: /media/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/4cea765bc6f4fb53bb39f28c8c9ffbbb_Lecture27.nb
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/4cea765bc6f4fb53bb39f28c8c9ffbbb_Lecture27.nb
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Lecture27.nb
 uid: 4cea765b-c6f4-fb53-bb39-f28c8c9ffbbb
 ---
+This resource contains a supporting file for lecture 27.
+

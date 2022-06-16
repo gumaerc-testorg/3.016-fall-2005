@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section contains the readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 9fc88898-1a4a-889a-8dce-547f7131f69a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Note: Users may find additional or updated materials at Professor Carter's [3.016 course Web site](http://pruffle.mit.edu/3.016).
@@ -60,7 +65,7 @@ L2
 Introduction to Mathematica®, Assignment and Evaluation, Rules and Replacement, Procedural and Functional Programming
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes]({{< baseurl >}}/pages/lecture-notes) and Mathematica® notebook.
+{{% resource_link 5aea1f21-249f-c24b-e22b-9c38fbac095e "Lecture notes" %}} and Mathematica® notebook.
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a supporting file for lecture 21.
-file: /media/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/a942e46bb1076ff18f9671ef3f50b89a_Lecture21.nb
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/a942e46bb1076ff18f9671ef3f50b89a_Lecture21.nb
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Lecture21.nb
 uid: a942e46b-b107-6ff1-8f96-71ef3f50b89a
 ---
+This resource contains a supporting file for lecture 21.
+
