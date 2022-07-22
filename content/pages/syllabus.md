@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section contains information on preface, mathematical software,
+  examination philosphy, homework, laboratory, grades, Accuracy, exposition, beauty,
+  observation, late policy, textbook, lecture notes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8919129c-60cc-a00f-c384-631738dc7897
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -110,7 +119,7 @@ Good solutions will often require graphics and, with care, graphics can often be
 
 Supplemental observations provide aids in understanding and demonstrate mastery of a topic. An example of a supplemental observation might be something like, "Note that in the limit of long times, that the total concentration goes to zero. This is sensible because the boundary condition on mass flux is directed outward everywhere on the finite domain."
 
-Not all homeworks are weighted equally - see the [assignments]({{< baseurl >}}/pages/assignments) page for more detail. Note that there will be times when you have two homework sets pending - this is done so that you can arrange your time conveniently.
+Not all homeworks are weighted equally - see the {{% resource_link 41cd701d-a23f-2d39-b7a7-11f15af72a9e "assignments" %}} page for more detail. Note that there will be times when you have two homework sets pending - this is done so that you can arrange your time conveniently.
 
 Laboratories will be graded on their completeness, demonstrated mastery of Mathematica® for that assignment, and exposition.
 
@@ -153,11 +162,11 @@ The notes will have places for you to fill in auxiliary discussion and explanati
 
 You can use these notes in several ways. You could print them out before lecture and write your own lecture notes directly during the lecture. You could take lecture notes on your own paper and then neatly copy them onto a printout later. You could print them before lecture and write on them rapidly and then copy - neatly and thoughtfully - notes onto a freshly printed set of lecture. I recommend the latter for effective learning and the creation of a set of notes that might provide future reference material - but do whatever works for you.
 
-The lecture notes will also refer to Mathematica® notebooks available in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) section for downloading. These notebooks will be used as Mathematica® sessions during the lectures to illustrate specific points and provide examples for you to help solve homework problems.
+The lecture notes will also refer to Mathematica® notebooks available in the {{% resource_link 5aea1f21-249f-c24b-e22b-9c38fbac095e "lecture notes" %}} section for downloading. These notebooks will be used as Mathematica® sessions during the lectures to illustrate specific points and provide examples for you to help solve homework problems.
 
 References to Mathematica® notebooks look like this:
 
-![Mathematica® example.](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/syllabus/mathematica_ref.jpg)
+{{< resource "b435652c-eceb-74ce-41b2-df13a3d501f2" >}}
 
 Mathematica® example.
 
