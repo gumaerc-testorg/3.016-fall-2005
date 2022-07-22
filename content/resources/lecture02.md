@@ -5,6 +5,7 @@ file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-200
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture02.nb
 uid: ce85ca57-93a1-d8c3-3427-a9859b59257f
 ---
 This resource contains a supporting file for lecture 2.
-

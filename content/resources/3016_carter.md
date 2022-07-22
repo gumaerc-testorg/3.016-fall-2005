@@ -6,6 +6,7 @@ file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-200
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 3016_Carter.nb
 uid: cad3463e-9d3d-7c09-e53d-5b7e63f38c5d
 ---
 This resource is the supporting file for style sheet for 3.016 mathematica notebooks.
-

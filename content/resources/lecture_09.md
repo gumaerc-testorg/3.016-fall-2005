@@ -9,6 +9,7 @@ file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
 ---
 This resource contains information on eigenvalues and eigenvectors of a matrix, matrix eigensystems and their geometrical interpretation and symmetric, skewsymmetric,
 orthogonal matrices.
-

@@ -5,6 +5,7 @@ file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-200
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3_sol.nb
 uid: c3d23f99-b703-df75-a2ff-f5a401d4b09e
 ---
 Problem set solutions.
-

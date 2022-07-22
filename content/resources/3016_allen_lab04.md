@@ -6,6 +6,7 @@ file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-200
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 3016_Allen_Lab04.nb
 uid: e329d1b1-5040-93a3-b8f4-bf119fa2e70a
 ---
 This resource is the supporting file for style sheet for 3.016 mathematica notebooks.
-
