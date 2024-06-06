@@ -4,6 +4,7 @@ description: This resource contains information on expressions and evaluation, a
   equality, mathematica functions, calculus, plotting, lists and matrices and rules
   and replacement.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/9fbd9fef9bb1b25e48bf6d1bfedd4ecd_lecture_02.pdf
+file_size: 133117
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

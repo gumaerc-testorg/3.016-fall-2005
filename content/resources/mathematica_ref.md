@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of a Mathematica notebook page.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/b435652ceceb74ce41b2df13a3d501f2_mathematica_ref.jpg
+file_size: 31049
 file_type: image/jpeg
 image_metadata:
   caption: ''

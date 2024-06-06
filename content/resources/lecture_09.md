@@ -6,6 +6,7 @@ description: 'This resource contains information on eigenvalues and eigenvectors
 
   orthogonal matrices.'
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c627a101f9c5fb468180d42ecdaf755e_lecture_09.pdf
+file_size: 187337
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

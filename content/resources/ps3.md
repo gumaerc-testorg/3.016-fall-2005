@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/6bd778031ba6cec55452757bc5625fe9_ps3.pdf
+file_size: 110814
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a supporting file for lecture 23.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/918627c6f9558a855087f1d8468c1fb8_Lecture23.zip
+file_size: 630762
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes

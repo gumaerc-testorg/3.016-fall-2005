@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set solutions.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/16fcd3f297867bec6f169bbfbc601c8e_ps2_sol.nb
+file_size: 13582
 file_type: text/plain
 learning_resource_types:
 - Assignments

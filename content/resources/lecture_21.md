@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about high-order equations.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/cbe2ade06416f43792c06e9172318541_lecture_21.pdf
+file_size: 1013596
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
