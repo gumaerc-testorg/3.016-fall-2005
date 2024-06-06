@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on integration and multidimensional
   integrals.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/1be1c52eb00b11033e9353e0e3d52d4c_lecture_14.pdf
+file_size: 209912
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
