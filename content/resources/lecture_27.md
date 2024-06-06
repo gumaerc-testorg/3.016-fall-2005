@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about Sturm-Liouville theory, orthogonal
   eigenfunctions.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/4c57c6d107a9c5fd6fc670a096643a7d_lecture_27.pdf
+file_size: 127971
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

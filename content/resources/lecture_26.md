@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about special functions.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/e1dee19b5cc47b3cac992ab9aa88beb5_lecture_26.pdf
+file_size: 131338
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

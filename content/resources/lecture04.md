@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a supporting file for lecture 4.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/52eb49a729236be1479e40bd92c995bd_Lecture04.nb
+file_size: 34424
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on similarity transformations, quadratic
   forms and eigenvector basis.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/5709417a380dc466c822d4484ca46b17_lecture_10.pdf
+file_size: 216739
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
