@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout.
-file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/83adbe891505819d1c7e96c67e77a064_3016_Carter.nb
+file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/83adbe891505819d1c7e96c67e77a064_3016_Carter.nb
 file_size: 53579
 file_type: text/plain
 learning_resource_types:
