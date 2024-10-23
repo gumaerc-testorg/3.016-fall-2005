@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a supporting file for lecture 24.
-file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/2944900f8670695e34be3cdc98affcf1_Lecture24.zip
+file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/2944900f8670695e34be3cdc98affcf1_Lecture24.zip
 file_size: 500302
 file_type: application/zip
 learning_resource_types:

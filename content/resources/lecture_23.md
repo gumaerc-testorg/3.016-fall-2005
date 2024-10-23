@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about resonance phenomena.
-file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c16bb77c1da03e029eb98e8ffc10ee5c_lecture_23.pdf
+file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c16bb77c1da03e029eb98e8ffc10ee5c_lecture_23.pdf
 file_size: 176325
 file_type: application/pdf
 learning_resource_types:

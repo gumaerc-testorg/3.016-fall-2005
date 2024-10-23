@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file contains topics: ordinary differential equations from physical
   models, integrating factors, exact forms and homogeneous and heterogeneous linear
   ODES.'
-file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c9f632f01ebeea5187713c196065827b_lecture_20.pdf
+file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c9f632f01ebeea5187713c196065827b_lecture_20.pdf
 file_size: 209829
 file_type: application/pdf
 learning_resource_types:

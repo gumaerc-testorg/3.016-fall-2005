@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on vectors and matrices and matrix
   operations.
-file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/cda0f02a624284c154e499cf773a824e_lecture_06.pdf
+file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/cda0f02a624284c154e499cf773a824e_lecture_06.pdf
 file_size: 199409
 file_type: application/pdf
 learning_resource_types:

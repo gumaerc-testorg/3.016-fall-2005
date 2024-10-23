@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides an introductory laboratory that gives steps on
   how to start mathematica.
-file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/da89489c9acaa9b68dcbd1e5fe9d1008_lab1.pdf
+file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/da89489c9acaa9b68dcbd1e5fe9d1008_lab1.pdf
 file_size: 60478
 file_type: application/pdf
 learning_resource_types:

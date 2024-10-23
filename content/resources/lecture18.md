@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a supporting file for lecture 18.
-file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/d43d16aa2aa00e5ac170ac148986d1e0_Lecture18.zip
+file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/d43d16aa2aa00e5ac170ac148986d1e0_Lecture18.zip
 file_size: 47068
 file_type: application/zip
 learning_resource_types:
