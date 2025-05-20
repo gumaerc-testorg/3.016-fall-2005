@@ -47,7 +47,7 @@ Lab 1
 {{< tdclose >}}{{< tdopen >}}
 Getting Started with Mathematica®
 {{< tdclose >}}{{< tdopen >}}
-\_Mathematica® Help Browser   
+\_Mathematica® Help Browser    
 \_Online Tutorial
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L3
@@ -72,8 +72,8 @@ Lab 2
 {{< tdclose >}}{{< tdopen >}}
 Symbolic Calculations and Plotting
 {{< tdclose >}}{{< tdopen >}}
-\_Mathematica® Help Browser   
-\_Kreyszig and Norminton: sections 1.4.2, 1.7.1.   
+\_Mathematica® Help Browser    
+\_Kreyszig and Norminton: sections 1.4.2, 1.7.1.    
 Functions: Integrate, Simplify, NIntegrate, Plot, Plot3D, ContourPlot.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L6
@@ -92,11 +92,11 @@ Lab 3
 {{< tdclose >}}{{< tdopen >}}
 Solving Linear Systems of Equations
 {{< tdclose >}}{{< tdopen >}}
-\_Mathematica® Help Browser   
-\_Kreyszig and Norminton: section 1.8.3.   
+\_Mathematica® Help Browser    
+\_Kreyszig and Norminton: section 1.8.3.    
 Functions: Inverse, Transpose, Eigensystem, Matrix Multiplication.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-[**3.014**](https://ocw-studio.odl.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labs) **Lab Week 1; 3.016 does not meet.**
+[**3.014**](https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labs/) **Lab Week 1; 3.016 does not meet.**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L8
 {{< tdclose >}}{{< tdopen >}}
@@ -120,8 +120,8 @@ Lab 4
 {{< tdclose >}}{{< tdopen >}}
 File Input/Output, Plotting Data
 {{< tdclose >}}{{< tdopen >}}
-\_Mathematica® Help Browser   
-\_Kreyszig and Norminton 2.12.7, 2.12.8.   
+\_Mathematica® Help Browser    
+\_Kreyszig and Norminton 2.12.7, 2.12.8.    
 Functions: Dimensions, Append, AppendTo, Do, Mean, Standard Deviation, ListPlot, Table, Graphics 'MultipleListPlot, Fit.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L11
@@ -140,8 +140,8 @@ Lab 5
 {{< tdclose >}}{{< tdopen >}}
 Statistics, Fitting Data, Error Analysis
 {{< tdclose >}}{{< tdopen >}}
-\_Mathematica® Help Browser   
-\_Kreyszig and Norminton: 3.8.2.   
+\_Mathematica® Help Browser    
+\_Kreyszig and Norminton: 3.8.2.    
 Functions: Fit, FindFit; Package: Statistics 'NonlinearFit.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L13
@@ -166,10 +166,10 @@ Lab 6
 {{< tdclose >}}{{< tdopen >}}
 Graphical Representations in Three and Higher Dimensions
 {{< tdclose >}}{{< tdopen >}}
-\_Mathematica® Help Browser   
+\_Mathematica® Help Browser    
 \_Kreyszig and Norminton: 1.9.1-1.9.7 and 1.9.9-1.9.11.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-[**3.014**](https://ocw-studio.odl.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labs) **Lab Week 2; 3.016 does not meet.**
+[**3.014**](https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labs/) **Lab Week 2; 3.016 does not meet.**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L16
 {{< tdclose >}}{{< tdopen >}}
@@ -267,5 +267,5 @@ Sturm-Louiville Problems: Eigenfunction, Orthogonal Functional Series, Eigenfunc
 {{< tdclose >}}{{< tdopen >}}
 Kreyszig. Sections 4.7 and 4.8.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-[**3.014**](https://ocw-studio.odl.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labs) **Lab Week 4; 3.016 does not meet.**
+[**3.014**](https://ocw-studio.odl.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labshttps://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labs/) **Lab Week 4; 3.016 does not meet.**
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
