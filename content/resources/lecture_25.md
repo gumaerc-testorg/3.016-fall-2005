@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about phase plane and critical points
   and stability of critical points.
-file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/48e28532b4e63d9320b81fd7110c3b70_lecture_25.pdf
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/48e28532b4e63d9320b81fd7110c3b70_lecture_25.pdf
 file_size: 263556
 file_type: application/pdf
 learning_resource_types:

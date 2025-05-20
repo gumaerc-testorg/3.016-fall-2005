@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on differential equations, geometrical
   interpretation of solutions and separable equations.
-file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/0a0ecfa11939073c5297ca66620b0763_lecture_19.pdf
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/0a0ecfa11939073c5297ca66620b0763_lecture_19.pdf
 file_size: 148819
 file_type: application/pdf
 learning_resource_types:
