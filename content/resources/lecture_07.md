@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on linear system solutions, determinants,
   homogeneous equation, vector spaces and linear transformations.
-file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/bc8e3cf9cfe20bf852acd14e1a347cd9_lecture_07.pdf
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/bc8e3cf9cfe20bf852acd14e1a347cd9_lecture_07.pdf
 file_size: 156136
 file_type: application/pdf
 learning_resource_types:

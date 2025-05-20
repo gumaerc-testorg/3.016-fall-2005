@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on higher dimensional integrals, divergence
   theorem, Stokes? theorem, Maxwell?s equations, Ampere?s law and Gauss? law.
-file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/a7d2879c49432a32d44028e799c3874a_lecture_16.pdf
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/a7d2879c49432a32d44028e799c3874a_lecture_16.pdf
 file_size: 219281
 file_type: application/pdf
 learning_resource_types:

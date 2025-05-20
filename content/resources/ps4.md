@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/dc68a9b1320cb01652e3b4c532e80a52_ps4.pdf
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/dc68a9b1320cb01652e3b4c532e80a52_ps4.pdf
 file_size: 80182
 file_type: application/pdf
 learning_resource_types:
