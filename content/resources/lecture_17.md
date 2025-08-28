@@ -4,7 +4,7 @@ description: This resource contains information on periodic functions, odd and e
   functions, representing a particular function with a sum of other functions, fourier
   series, other forms of the fourier coefficients and complex form of the fourier
   series.
-file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c0aecfc551c60ea1b4f8ceec4992b4eb_lecture_17.pdf
+file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c0aecfc551c60ea1b4f8ceec4992b4eb_lecture_17.pdf
 file_size: 209902
 file_type: application/pdf
 learning_resource_types:

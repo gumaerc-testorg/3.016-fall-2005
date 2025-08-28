@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about differential operators and harmonic
   oscillators.
-file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/453065060e4fe8a7db9400e7c42e5ab8_lecture_22.pdf
+file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/453065060e4fe8a7db9400e7c42e5ab8_lecture_22.pdf
 file_size: 263306
 file_type: application/pdf
 learning_resource_types:

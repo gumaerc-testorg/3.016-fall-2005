@@ -2,7 +2,7 @@
 content_type: page
 description: This section contains information on the Laboratory lectures.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 2bccc476-62f6-8437-3d24-9acff249489f
