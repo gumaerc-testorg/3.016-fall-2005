@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a supporting file for lecture 10.
-file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/53307a3a75728a7832ab41503e8f3544_Lecture10.nb
+file: /ol-ocw-studio-app/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/53307a3a75728a7832ab41503e8f3544_Lecture10.nb
 file_size: 154119
 file_type: text/plain
 learning_resource_types:
