@@ -12,7 +12,7 @@ video_metadata:
   youtube_id: null
 ---
 
-Note: Users may find additional or updated materials at Professor Carter's [3.016 course Web site](http://pruffle.mit.edu/3.016).
+Note: Users may find additional or updated materials at Professor Carter's {{% resource_link "8b81cf15-a83e-4757-a761-c6bfe81c7f92" "3.016 course Web site" %}}.
 
 This page presents information for two of the labs.
 
