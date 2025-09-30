@@ -13,7 +13,7 @@ video_metadata:
   youtube_id: null
 ---
 
-Users may find additional or updated materials at Professor Carter's [3.016 course Web site](http://pruffle.mit.edu/3.016).
+Users may find additional or updated materials at Professor Carter's {{% resource_link "8b81cf15-a83e-4757-a761-c6bfe81c7f92" "3.016 course Web site" %}}.
 
 Each lecture session uses lecture notes and Mathematica® examples. The Mathematica® examples are provided in two formats: Mathematica® notebook files (.nb) and MathML files.
 

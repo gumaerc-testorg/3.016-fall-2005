@@ -96,7 +96,7 @@ Solving Linear Systems of Equations
 \_Kreyszig and Norminton: section 1.8.3.    
 Functions: Inverse, Transpose, Eigensystem, Matrix Multiplication.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-[**3.014**](https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labs/) **Lab Week 1; 3.016 does not meet.**
+{{% resource_link "4ba033f4-2506-4344-9a38-f65ace1375b4" "**3.014**" %}} **Lab Week 1; 3.016 does not meet.**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L8
 {{< tdclose >}}{{< tdopen >}}
@@ -169,7 +169,7 @@ Graphical Representations in Three and Higher Dimensions
 \_Mathematica® Help Browser    
 \_Kreyszig and Norminton: 1.9.1-1.9.7 and 1.9.9-1.9.11.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-[**3.014**](https://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labs/) **Lab Week 2; 3.016 does not meet.**
+{{% resource_link "4ba033f4-2506-4344-9a38-f65ace1375b4" "**3.014**" %}} **Lab Week 2; 3.016 does not meet.**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L16
 {{< tdclose >}}{{< tdopen >}}
@@ -217,7 +217,7 @@ Higher Order Differential Equations: Homogeneous Second Order, Initial Value Pro
 {{< tdclose >}}{{< tdopen >}}
 Kreyszig. Sections 2.1, 2.2, and 2.3.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-[**3.014**](https://ocw-studio.odl.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labs) **Lab Week 3; 3.016 does not meet.**
+{{% resource_link "06d9a34c-14b7-4e50-ac2b-53c950c99114" "**3.014**" %}} **Lab Week 3; 3.016 does not meet.**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L22
 {{< tdclose >}}{{< tdopen >}}
@@ -267,5 +267,5 @@ Sturm-Louiville Problems: Eigenfunction, Orthogonal Functional Series, Eigenfunc
 {{< tdclose >}}{{< tdopen >}}
 Kreyszig. Sections 4.7 and 4.8.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-[**3.014**](https://ocw-studio.odl.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labshttps://ocw.mit.edu/courses/3-014-materials-laboratory-fall-2006/pages/labs/) **Lab Week 4; 3.016 does not meet.**
+{{% resource_link "1ed6b929-6de2-4e00-8be4-b60c6077fd99" "**3.014**" %}} **Lab Week 4; 3.016 does not meet.**
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
